@@ -1,0 +1,6 @@
+#parametros para conexion con SQL
+connection=jdbc:sqlserver://localhost:16000;databaseName=JAVAPROYECT;
+driver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+password=1234
+user=sa
+
